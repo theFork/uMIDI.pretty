@@ -1,6 +1,6 @@
 (module Con-boxed_header-THT (layer F.Cu) (tedit 56615DF1)
-  (descr CONNECTOR Boxed header 2x5 pins)
-  (tags CONNECTOR)
+  (descr "CONNECTOR Boxed header 2x5 pins")
+  (tags "CONNECTOR")
   (attr virtual)
   (fp_text reference X2 (at -8.89 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
