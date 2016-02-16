@@ -1,4 +1,4 @@
-(module Mech-Switch-17x9.5mm-SMD (layer F.Cu) (tedit 56C0D098)
+(module Mech-Switch_17x9.5mm-SMD (layer F.Cu) (tedit 56C0D098)
   (fp_text reference REF** (at 0 -6.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
