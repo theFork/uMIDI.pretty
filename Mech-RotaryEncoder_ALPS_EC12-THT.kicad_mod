@@ -1,4 +1,4 @@
-(module ALPS-EC12-topmount (layer F.Cu) (tedit 56C0CACC)
+(module Mech-Rotary_Encoder_ALPS_EC12-THT (layer F.Cu) (tedit 56C0CACC)
   (fp_text reference REF** (at 8 11.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
