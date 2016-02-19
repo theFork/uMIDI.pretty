@@ -16,8 +16,8 @@ Classes:
 
 ```
 *Con* Connectors
-*Pas* Passives
+*Pas* Passives: Resistors, Capacitors, Inductors
 *Semi* Semiconductors
-*Mech* Mechanical
+*Mech* Mechanical: Switches, Heat sinks, Mounting holes
 *NoBom* Solder jumpers, artwork etc.
 ```
